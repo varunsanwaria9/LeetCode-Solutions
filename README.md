@@ -1,1 +1,3 @@
-# LeetCode_DataStructures_1
+# LeetCode Solution
+
+
